@@ -20,6 +20,8 @@ Tramite la barra di ricerca è possibile verificare il livello di qualità dell'
 ### Il risultato sarà il seguente:
 ![Scheme](https://github.com/azmi27-12/Javascript-advanced/blob/master/screenshoot/ricerca.PNG)
 
+<br>
+
 Se si inserice una città inesistente comparirà questa schermata:
 ![Scheme](https://github.com/azmi27-12/Javascript-advanced/blob/master/screenshoot/error.PNG)
 
