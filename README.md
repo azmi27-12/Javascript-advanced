@@ -20,6 +20,15 @@ Tramite la barra di ricerca è possibile verificare il livello di qualità dell'
 ### Il risultato sarà il seguente:
 ![Scheme](https://github.com/azmi27-12/Javascript-advanced/blob/master/screenshoot/ricerca.PNG)
 
+Se si inserice una città inesistente commparirà questa schermata:
+![Scheme](https://github.com/azmi27-12/Javascript-advanced/blob/master/screenshoot/error.PNG)
+
+## API UTILIZZATE
+
+Per tracciare i livelli d'inquinamento sono state utilizzate le api del sito <a href="https://aqicn.org/map/world/">aqicn.org</a> 
+Per mostrare la mappa sono state utilizzate le API di <a href="https://leafletjs.com/">leafletjs<a>
+
+
 
 
 ## Anteprima 
