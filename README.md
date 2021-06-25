@@ -15,12 +15,12 @@ All interno della cartella sono presenti i file
 
 ![Scheme](https://github.com/azmi27-12/Javascript-advanced/blob/master/screenshoot/home.PNG)
 
-Tramite la barra di ricerca è possibile verificare il livello di qualità dell'aria (aqi) in quella determinata zona è possibile anche utilizzare la funzione "use position" per poter utilizzare la posizione del dispositivo
+Tramite la barra di ricerca è possibile verificare il livello di qualità dell'aria (aqi) in quella determinata zona inoltre è possibile anche utilizzare la funzione "use position" per poter utilizzare la posizione del dispositivo
 
 ### Il risultato sarà il seguente:
 ![Scheme](https://github.com/azmi27-12/Javascript-advanced/blob/master/screenshoot/ricerca.PNG)
 
-Se si inserice una città inesistente commparirà questa schermata:
+Se si inserice una città inesistente comparirà questa schermata:
 ![Scheme](https://github.com/azmi27-12/Javascript-advanced/blob/master/screenshoot/error.PNG)
 
 ## API UTILIZZATE
