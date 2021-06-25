@@ -14,6 +14,11 @@ All interno della cartella sono presenti i file
 ## Funzionamento
 
 ![Scheme](https://github.com/azmi27-12/Javascript-advanced/blob/master/screenshoot/home.PNG)
+
+Tramite la barra di ricerca è possibile verificare il livello di qualità dell'aria (aqi) in quella determinata zona 
+
+
+
 ## Anteprima 
 
 A questo indirizzo è disponibile un anteprima del progetto:
