@@ -13,7 +13,7 @@ All interno della cartella sono presenti i file
 
 ## Funzionamento
 
-![alt text](https://github.com/azmi27-12/Javascript-advanced/blob/screenshot/home.png?raw=true)
+(https://github.com/azmi27-12/Javascript-advanced/blob/screenshot/home.png?raw=true)
 ## Anteprima 
 
 A questo indirizzo è disponibile un anteprima del progetto:
