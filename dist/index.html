@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+    <!--Styles-->
+    <link href="bundle.css" rel="stylesheet"></head>
+
+    <!--Leaflet-->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+    integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+    crossorigin=""/>
+    
+    <title>Air Pollution</title>
+    <!--SCRIPT JS-->
+  <script defer src="bundle.js"></script>
+  
+    <body>
+
+    <div class="container">
+    
+      <!--search section-->
+
+      <section class="search-section">
+        <h2>Which aqi do you want to know?</h2>
+        <form class="form-label">
+          <input class="search-box" id="city" type="text" autocomplete="off" placeholder="Type to search...">
+        </form>
+      
+        <div>
+          <button class="position-btn" id="automaticPosition">Use Position</button>
+        </div>
+      </section>
+      
+      <main>
+        <section class="location" >
+          <p class="city">location</p>
+          <p>Last Control</p>
+          <p class="date">-</p> 
+        </section>
+
+        
+        <section class="current" id = "currentId">
+          <p class="aqi" id="aqiId">aqi</p>  
+          <p class="status" id="statusId">Status</p>
+        </section>
+
+    
+        <button class="categories-btn" id="hiddenShowCategories">See Categories</button>
+        <div class="categories" id="categoriesId">
+          <ol>
+            <li >Good: Air quality is considered satisfactory, and air pollution poses little or no risk</li>
+            
+            <li>Moderate: Air quality is acceptable; however, for some pollutants there may be a moderate health concern</li>
+          
+            <li>Unhealthy for Sensitive Groups: Members of sensitive groups may experience health effects</li>
+        
+            <li>Unhealty: Everyone may begin to experience health effects</li>
+
+            <li>Very Unhealty: Health warnings of emergency conditions</li>
+
+            <li>Hazardous: Health alert: everyone may experience more serious health effects</li>
+
+          </ol>
+        </div>
+      </main>
+
+      <section class="map-section">
+        <div id="map">
+
+        </div>
+      </section>
+    </div>
+
+
+    <!--SCRIPT-->
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+    integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+    crossorigin=""></script>
+    
+  </body>
+</html>
