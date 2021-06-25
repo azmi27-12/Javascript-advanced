@@ -26,7 +26,7 @@ Se si inserice una città inesistente comparirà questa schermata: <br>
 
 ## API UTILIZZATE
 
-Per tracciare i livelli d'inquinamento sono state utilizzate le api del sito <a href="https://aqicn.org/map/world/">aqicn.org</a> 
+Per tracciare i livelli d'inquinamento sono state utilizzate le api del sito <a href="https://aqicn.org/map/world/">aqicn.org</a> <br>
 Per mostrare la mappa sono state utilizzate le API di <a href="https://leafletjs.com/">leafletjs<a>
 
 
