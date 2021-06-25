@@ -2,11 +2,11 @@
 
 ## Air Pollution project
 
-La cartella /dist contiene il codice html per la realizzazione del progetto <br>
+La cartella /dist contiene il file index funzionante <br>
 All interno della cartella sono presenti i file
 
 <ul>
-  <li>styles.css contenente il file style.css</li> 
+  <li>styles.css</li> 
   <li>main.js</li>
   <li>/images</li>
 </ul>
