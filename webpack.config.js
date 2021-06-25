@@ -9,7 +9,7 @@ module.exports = {
     entry: './assets/JavaScript/main.js',
 
     output:{
-        filename: 'bundle.js'
+        filename: 'main.js'
     },
 
     module:{
@@ -58,7 +58,7 @@ module.exports = {
             filename: 'index.html',
         }),
         new MiniCssExtractPlugin({
-            filename: "bundle.css"
+            filename: "styles.css"
           }),
 
         new Dotenv()   
